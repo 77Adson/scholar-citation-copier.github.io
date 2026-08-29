@@ -1,6 +1,6 @@
 # Privacy Policy — Scholar Cite Copier
 
-_Last updated: [FILL IN DATE BEFORE PUBLISHING]_
+_Last updated: 29.08.2026_
 
 Scholar Cite Copier is a free browser extension that adds one-click citation
 copying (APA, MLA, Chicago, Harvard, Vancouver, BibTeX) next to results on
@@ -67,4 +67,4 @@ date above will reflect that.
 
 ## Contact
 
-[FILL IN: a contact email or page where users can reach you with questions]
+larpstudios@proton.me
